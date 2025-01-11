@@ -6,12 +6,10 @@ This project focuses on analyzing sales performance data from a retail company. 
 - <a href="https://github.com/hqakmal/Sales-Analysis-Excel/blob/main/Sales%20Analysis.xlsx">Dataset</a>
 
 ## Questions (KPIs)
-- How does customer age and gender influence their purchasing behavior?
 - Are there discernible patterns in sales across different time periods?
 - Which product categories hold the highest appeal among customers?
 - What are the relationships between age, spending, and product preferences?
 - How do customers adapt their shopping habits during seasonal trends?
-- Are there distinct purchasing behaviors based on the number of items bought per transaction?
 - What insights can be gleaned from the distribution of product prices within each category?
 
 - Dashboard Interaction <a href="https://github.com/hqakmal/Sales-Analysis-Excel/blob/main/Dashboard%20View.png">View Dashboard</a>
@@ -24,14 +22,15 @@ This project focuses on analyzing sales performance data from a retail company. 
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+<img width="491" alt="Dashboard View" src="https://github.com/user-attachments/assets/2af9479a-c1bb-4b01-81c2-ed890a565bd9" />
 
 ## Project Insight
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-- More than 90% of the products delivered
+- The highest sales occurred in May ($15,040), and the lowest sales occurred in August ($3,310).
+- The product categories with the highest appeal among customers are clothing (196) followed by electronics (174) and beauty (167).
+- The biggest interest in beauty products is in the age group (18-37), for clothing products in the age group (18-27), and for electronic products in the age group (28-37).
+- The highest expenditure was made by the age group (28-37) at ($28,795) and the lowest expenditure was in the age group (58-67) at ($10,005).
+- The sales trend for beauty and electronic products occurred in May, and for clothing products in February.
+- Sales of products priced at $500 accounted for (58.64%) of the company's total sales.
 
 ## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+To increase the company’s sales, the marketing strategy plan focuses on aged 28-37. This demographic is a key consumer segment, as they often make significant household and lifestyle purchases. Marketing focus should also be given to the $500 price point, which is the heart of the company’s sales. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
