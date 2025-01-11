@@ -14,7 +14,7 @@ This project focuses on analyzing sales performance data from a retail company. 
 - Are there distinct purchasing behaviors based on the number of items bought per transaction?
 - What insights can be gleaned from the distribution of product prices within each category?
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/hqakmal/Sales-Analysis-Excel/blob/main/Dashboard%20View.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
